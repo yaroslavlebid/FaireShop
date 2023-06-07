@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FaireShop</string>
+    <string name="title_activity_main_compose">MainComposeActivity</string>
+    <string name="empty_list_message">The list of products is empty.</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_internet_message">No internet connection!</string>
+    <string name="snackbar_try_again">Try again</string>
+</resources>
